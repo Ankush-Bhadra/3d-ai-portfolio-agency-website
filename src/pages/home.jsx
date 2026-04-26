@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import Spline from "@splinetool/react-spline";
+import Services from "../components/Services";
 
 export default function Home() {
   return (
@@ -62,6 +63,7 @@ export default function Home() {
           Explore Work
         </motion.button>
       </section>
+      <Services />
     </div>
   );
 }
