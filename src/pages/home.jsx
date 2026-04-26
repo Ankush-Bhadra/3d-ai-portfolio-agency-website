@@ -17,7 +17,7 @@ export default function Home() {
             </span>
 
             <span className="px-4 py-2 rounded-full bg-white/5 backdrop-blur-md border border-white/10 hover:bg-purple-600/30 hover:text-white transition cursor-pointer">
-                Contact
+                Contact 
             </span>
         </div>
       </nav>
@@ -50,7 +50,7 @@ export default function Home() {
           className="relative z-20 text-gray-300 mt-6 max-w-lg"
         >
           We create modern websites with 3D animation, smooth UI and powerful
-          experience.
+          experience text.
         </motion.p>
 
         <motion.button
