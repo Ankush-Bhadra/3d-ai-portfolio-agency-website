@@ -50,7 +50,7 @@ export default function Home() {
           className="relative z-20 text-gray-300 mt-6 max-w-lg"
         >
           We create modern websites with 3D animation, smooth UI and powerful
-          experience text.
+          experience.
         </motion.p>
 
         <motion.button
